@@ -16,6 +16,7 @@
 | [普惠AI 指令拆解引擎](https://github.com/puhuiai/puhuiai-fanrenge) | 中文需求拆解、提示词与 AI 工作流生成 | Windows / CLI |
 | [拦接宝 LanJieBao](https://github.com/puhuiai/lanjiebao) | 来电拦截、AI 留言与号码归属地 | Android |
 | [龙虾 Pro](https://github.com/puhuiai/lobsterpro3) | 连接大模型与本地工具的 AI Agent 工作台 | Windows |
+| [EveryMatch](https://github.com/puhuiai/everymatch) | 多智能体任务总控台：一句话拆步骤、按能力选 Agent、执行与独立验收 | Windows |
 
 全部产品与下载入口：[**普惠AI 产品中心**](https://puhuiai.github.io/website/)
 
